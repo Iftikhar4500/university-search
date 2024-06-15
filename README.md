@@ -20,4 +20,4 @@ A simple web application to search for universities and colleges by country and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iftikhar4500/university-search.git
+git clone https://github.com/Iftikhar4500/university-search.git
